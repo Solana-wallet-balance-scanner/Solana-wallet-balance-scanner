@@ -123,4 +123,6 @@ This project is licensed under the [MIT License](/LICENSE). You are free to use,
 
 
 
-Update:  06/16/2025 05-49 Auth links
+
+
+Update:  17.06.2025 url is now accessible
